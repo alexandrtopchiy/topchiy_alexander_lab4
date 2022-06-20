@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sem2lab4/1.0.0": {
+        "runtime": {
+          "sem2lab4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sem2lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
